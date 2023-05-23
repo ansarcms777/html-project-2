@@ -1,0 +1,60 @@
+body {
+  background-image: url(./images/yellow\ img);
+  background-size: cover;
+  width: 100vw;
+  height: 100vh;
+}
+
+.title {
+  text-align: center;
+}
+.name-container {
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.input {
+  width: 10rem;
+  height: 1.85rem;
+}
+
+.email-container {
+  font-size: 20px;
+  font-weight: 600;
+}
+.email-box {
+  height: 25px;
+}
+.message-container {
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.btn {
+  width: 150px;
+  height: 30px;
+  margin-top: 1rem;
+  background-color: blueviolet;
+
+  margin-bottom: 3rem;
+  margin-left: 37rem;
+}
+
+.option-container {
+  text-align: center;
+  font-size: 20px;
+  font-weight: 600;
+  margin-bottom: 2rem;
+}
+
+.select-container {
+  text-align: center;
+  font-size: 20px;
+  font-weight: 600;
+  margin-left: 37rem;
+}
+
+.video {
+  margin-left: 33rem;
+  margin-top: 3rem;
+}
